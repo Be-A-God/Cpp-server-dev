@@ -16,7 +16,8 @@
 
 - 继承关系图
 
-    ![继承关系.png](http://120.77.180.209/2022/03/08/c2e697a62c33c.png)
+  ![20220313120952](https://raw.githubusercontent.com/Be-A-God/Drawing-bed/main/note/20220313120952.png)
+
 
 - ~~`valarray类`：表示并操作值数组的类，支持逐元素数学运算和多种形式的广义下标运算符、切片及间接访问~~
 

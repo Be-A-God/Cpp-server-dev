@@ -2,14 +2,15 @@
 
 - 构造函数
 
-    ![string.png](http://120.77.180.209/2022/03/08/08c078a2a675f.png)
-    ![string.png](http://120.77.180.209/2022/03/08/372d0355443b0.png)
+  ![20220313120702](https://raw.githubusercontent.com/Be-A-God/Drawing-bed/main/note/20220313120702.png)
+  ![20220313120732](https://raw.githubusercontent.com/Be-A-God/Drawing-bed/main/note/20220313120732.png)
+
 
 - 读取输入时遇到空白字符停止并将其留在输入队列中
 
 - 重载的 `find()` 成员方法
 
-    ![find.png](http://120.77.180.209/2022/03/08/8cb44fbe4cfe8.png)
+  ![20220313120810](https://raw.githubusercontent.com/Be-A-God/Drawing-bed/main/note/20220313120810.png)
 
 - 其他
 

@@ -4,8 +4,8 @@
 
 - IO 库条件状态
 
-    ![IO库.png](http://120.77.180.209/2022/03/09/05dcb0ec6cd13.png)
-    ![IO库.png](http://120.77.180.209/2022/03/09/f7c86dc6da90c.png)
+  ![20220313121553](https://raw.githubusercontent.com/Be-A-God/Drawing-bed/main/note/20220313121553.png)
+  ![20220313121608](https://raw.githubusercontent.com/Be-A-God/Drawing-bed/main/note/20220313121608.png)
 
 --- 
 
