@@ -49,7 +49,7 @@
 
 ### 面试求职
 
-- [牛客网C++面试宝典]()
+- [牛客网C++面试宝典](https://github.com/Be-A-God/Cpp-server-dev/tree/main/%E9%9D%A2%E8%AF%95%E6%B1%82%E8%81%8C/%E7%89%9B%E5%AE%A2%E7%BD%91C%2B%2B%E9%9D%A2%E8%AF%95%E5%AE%9D%E5%85%B8)
 
 ---
 
